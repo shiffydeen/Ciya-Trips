@@ -1,10 +1,10 @@
 export const NavLists = [
   { id: 1, url: "home", path: "/" },
-  { id: 2, url: "services", path: "/services" },
-  { id: 3, url: "tour", path: "/tour" },
-  { id: 6, url: "about", path: "/about" },
-  { id: 4, url: "blog", path: "/blog" },
-  { id: 5, url: "contact", path: "/contact" },
+  { id: 2, url: "services", path: "/" },
+  { id: 3, url: "tour", path: "/" },
+  { id: 6, url: "about", path: "/" },
+  { id: 4, url: "blog", path: "/" },
+  { id: 5, url: "contact", path: "/" },
 ];
 export const paper = "https://themes.potenzaglobalsolutions.com/html/ciyatrip/images/title-icon.png";
 export const flag0 = "https://themes.potenzaglobalsolutions.com/html/ciyatrip/images/country-flags/01.jpg";
